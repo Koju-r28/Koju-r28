@@ -57,13 +57,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brook07/brook07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <i>✨ "She believed she could code, so she did" ✨</i>
