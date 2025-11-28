@@ -9,9 +9,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl"/>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=brook07&label=Profile%20views&color=ff69b4&style=flat" alt="brook07" /> 
-</p>
 
 ### 🌸 About Me 🌸
 
