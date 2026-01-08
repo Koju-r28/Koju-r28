@@ -5,11 +5,6 @@
   💜 Aspiring Software Developer | Learning & Growing 💜
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl"/>
-</p>
-
-
 ### 🌸 About Me 🌸
 
 - 💻 Currently learning **C, C++, and JavaScript** 
@@ -20,11 +15,25 @@
 
 ### 💌 Let's Connect!
 
+
 <p align="left">
+  <a href="https://github.com/Koju-r28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ritu-koju/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
   <a href="https://www.instagram.com/_ritu_koju/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="mailto:kojur28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ### 🛠️ Languages I'm Learning
 
