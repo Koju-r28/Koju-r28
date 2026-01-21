@@ -2,14 +2,13 @@
     ✨ Hi there, I'm Ritu Koju ✨
 </h1>
 <h3 align="center">
-  💜 Aspiring Software Developer | Learning & Growing 💜
+  💜  Learning & Growing 💜
 </h3>
 
 ### 🌸 About Me 🌸
 
 - 💻 Currently learning **C, C++, and JavaScript** 
 - 🚀 Working on exciting **Semester Projects & Mini Projects**
-- 🎨 Building my coding skills one project at a time
 - 👩‍💻 Check out my work: [github.com/Koju-r28](https://github.com/Koju-r28)
 - ✨ **Fun fact:** Going with the flow and loving every moment of the coding journey!
 
