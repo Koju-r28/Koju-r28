@@ -1,10 +1,8 @@
 <div align="center">
 
-# ✨ Ritu Koju ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ritu%20Koju&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Developer%20|%20Learning%20&%20Growing&descAlignY=55&descAlign=50" width="100%"/>
 
-### 💜 Aspiring Developer | Learning & Growing | Code Enthusiast 💜
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B794F4&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+journey!;Learning+C%2C+C%2B%2B%2C+JavaScript;Building+projects%2C+one+line+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+journey!+✨;Learning+C%2C+C%2B%2B%2C+JavaScript;Building+projects%2C+one+line+at+a+time;Going+with+the+flow+💜)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,8 +13,10 @@
 ```javascript
 const ritu = {
     pronouns: "she/her",
+    location: "Kathmandu, Nepal 🇳🇵",
     currentlyLearning: ["C", "C++", "JavaScript"],
     workingOn: ["Semester Projects", "Mini Projects"],
+    interests: ["Coding", "Problem Solving", "Learning New Tech"],
     funFact: "Going with the flow and loving every moment! ✨",
     motto: "She believed she could code, so she did 💪"
 };
@@ -33,17 +33,19 @@ const ritu = {
 <td align="center" width="50%">
 
 **📚 Learning**
-- Mastering C fundamentals
-- Exploring C++ OOP concepts
-- JavaScript for web development
+- 🔹 Mastering C fundamentals
+- 🔹 Exploring C++ OOP concepts
+- 🔹 JavaScript for web development
+- 🔹 Data structures & algorithms
 
 </td>
 <td align="center" width="50%">
 
 **🚀 Building**
-- Academic semester projects
-- Creative mini projects
-- Personal coding challenges
+- 🔸 Academic semester projects
+- 🔸 Creative mini projects
+- 🔸 Personal coding challenges
+- 🔸 Portfolio development
 
 </td>
 </tr>
@@ -55,54 +57,68 @@ const ritu = {
 
 <div align="center">
 
-### Languages I'm Learning
+### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,git,github,vscode&theme=dark" alt="Tech Stack" />
 
-</div>
+<br><br>
 
-<div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C"/>
-<br><b>C</b>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70" alt="C"/>
+<br><br><b>C Programming</b>
+<br><sub>Fundamentals & DSA</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
-<br><b>C++</b>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
+<br><br><b>C++</b>
+<br><sub>OOP & Algorithms</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-<br><b>JavaScript</b>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" alt="JavaScript"/>
+<br><br><b>JavaScript</b>
+<br><sub>Web Development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
+<br><br><b>Git & GitHub</b>
+<br><sub>Version Control</sub>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Koju-r28&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=b794f4&icon_color=b794f4&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koju-r28&theme=radical&hide_border=true&background=1a1b27&stroke=b794f4&ring=b794f4&fire=ff6e96&currStreakLabel=b794f4" alt="GitHub Streak" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koju-r28&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=b794f4&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Koju-r28&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&area_color=7aa2f7" alt="Contribution Graph"/>
 
 </div>
-
----
 
 ## 💌 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Koju--r28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Koju-r28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritu_Koju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritu-koju-50877436a/)
-[![Instagram](https://img.shields.io/badge/Instagram-@_ritu__koju-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ritu_koju/)
-[![Email](https://img.shields.io/badge/Email-kojur28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kojur28@gmail.com)
+<a href="https://github.com/Koju-r28">
+  <img src="https://img.shields.io/badge/GitHub-Koju--r28-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b27" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ritu-koju-50877436a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ritu_Koju-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/_ritu_koju/">
+  <img src="https://img.shields.io/badge/Instagram-@_ritu__koju-1a1b27?style=for-the-badge&logo=instagram&logoColor=bb9af7&labelColor=1a1b27" alt="Instagram"/>
+</a>
+<a href="mailto:kojur28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kojur28@gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=7dcfff&labelColor=1a1b27" alt="Email"/>
+</a>
+
+<br><br>
+
+**💬 Feel free to reach out for collaborations or just a chat about code!**
 
 </div>
 
@@ -112,13 +128,31 @@ const ritu = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
 <br><br>
 
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
+### ✨ *"Code is poetry written in logic"* ✨
+
+<br>
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
 
 </div>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -126,8 +160,14 @@ const ritu = {
 
 ### 🌟 Thanks for visiting! 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=Koju-r28&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Koju-r28&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+<br><br>
+
+**⭐ Don't forget to star my repositories if you find them interesting!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
