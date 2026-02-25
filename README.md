@@ -96,6 +96,10 @@ const ritu = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koju-r28&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&area_color=7aa2f7" alt="Contribution Graph"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Koju-r28&theme=rose&hide_border=true&background=fdf0f4&ring=d4879e&fire=9d4b6e&currStreakLabel=9d4b6e&sideLabels=9d4b6e&dates=b07080&currStreakNum=5c2338&sideNums=5c2338&stroke=ebbccd" alt="GitHub Streak"/>
+
 
 </div>
 
